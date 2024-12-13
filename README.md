@@ -1,7 +1,7 @@
 # ProjetPYTHON_4AGSI
 # Gestion de Tournoi
 
-Ce projet Python permet de gérer un tournoi sous forme de coupe éliminatoire entre des équipes. Les utilisateurs peuvent entrer le nombre d'équipes, ajouter les noms des équipes, saisir les scores des matchs et suivre les résultats jusqu'à la détermination du gagnant.
+Ce projet Python permet de gérer un tournoi sous forme de coupe éliminatoire ou de championnat entre des équipes. Les utilisateurs peuvent entrer le nombre d'équipes, ajouter les noms des équipes, saisir les scores des matchs et suivre les résultats jusqu'à la détermination du gagnant.
 
 ## Fonctionnalités
 
